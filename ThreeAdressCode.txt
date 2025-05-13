@@ -1,0 +1,21 @@
+t0 = -10.5E+12
+num_ = t0
+
+t1 = +9.3
+num_ = t1
+
+course = "c"
+course_ = "Compiler Construction"
+
+t2 = _flag != true
+if not t2 goto L1
+
+output = "Ok"
+num_ = 10
+goto L2
+
+L1:
+input = _num
+
+L2:
+return 0
