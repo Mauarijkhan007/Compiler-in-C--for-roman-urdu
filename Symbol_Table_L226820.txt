@@ -1,0 +1,5 @@
+1	num_
+2	n_umber
+3	course_
+4	_flag
+5	_num

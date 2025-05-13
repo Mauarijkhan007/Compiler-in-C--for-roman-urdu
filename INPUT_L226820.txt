@@ -1,0 +1,22 @@
+Adadi Marqazi ()
+{
+    @
+    =
+    +
+    /
+    . 
+    
+//i love super sbazi
+Ashriya num_ = -10.5E+12 ::
+Ashr@iya n_umber = +9.3 ::
+Harf course = "c" ::
+/*******jnjnjnjjnjn***************/
+Matn course_ = "Compiler Construction" ::
+Mantiqi _flag != True ::
+Agar ( _flag )
+output<- "Ok" ::
+Adadi num_= 10 ::
+Wagarna
+input-> _num ::
+Wapas 0 ::
+} 

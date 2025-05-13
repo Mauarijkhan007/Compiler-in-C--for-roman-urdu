@@ -1,0 +1,51 @@
+Function
+├── Type: Adadi (rw,28)
+├── Identifier: Marqazi (rw,59)
+├── (
+├── ArgList
+│   └── ε
+├── )
+├── CompStmt
+│   ├── {
+│   ├── StmtList
+│   │   ├── Stmt (Assignment)
+│   │   │   ├── Type: Ashriya (rw,26)
+│   │   │   ├── id: num_ (id,0)
+│   │   │   ├── =
+│   │   │   └── Literal: -10.5E+12
+│   │   ├── Stmt (Assignment)
+│   │   │   ├── id: n_umber (id,1)
+│   │   │   ├── =
+│   │   │   └── Literal: +9.3
+│   │   ├── Stmt (Declaration)
+│   │   │   ├── Type: Harf (rw,25)
+│   │   │   └── Literal: ltr,1
+│   │   ├── Stmt (Declaration)
+│   │   │   ├── Type: Matn (rw,60)
+│   │   │   ├── id: course_ (id,2)
+│   │   │   └── Literal: ltr,2
+│   │   ├── Stmt (IfStmt)
+│   │   │   ├── Keyword: Mantiqi (rw,9)
+│   │   │   ├── id: _flag (id,3)
+│   │   │   ├── !=
+│   │   │   ├── Literal: True (rw,12)
+│   │   │   └── EndOfStmt (::)
+│   │   ├── Stmt (If-Body)
+│   │   │   ├── Agar (rw,41)
+│   │   │   ├── (
+│   │   │   ├── id: _flag (id,3)
+│   │   │   ├── )
+│   │   │   ├── output<- (rw,62)
+│   │   │   └── Literal: ltr,3
+│   │   ├── Stmt (Assignment)
+│   │   │   ├── Type: Adadi (rw,28)
+│   │   │   ├── id: num_ (id,0)
+│   │   │   └── Literal: 10
+│   │   ├── Stmt (ElseStmt)
+│   │   │   ├── Wagarna (rw,2)
+│   │   │   ├── input-> (rw,61)
+│   │   │   └── id: _num (id,4)
+│   │   ├── Stmt (Return)
+│   │   │   ├── Wapas (rw,31)
+│   │   │   └── 0
+│   └── }
